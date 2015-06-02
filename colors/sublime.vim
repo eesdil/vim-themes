@@ -12,7 +12,7 @@ let colors_name = "sublime"
 hi Comment	    guifg=#75715e    ctermfg=242    gui=bold    cterm=bold 
 hi Constant	    guifg=#8d54ff    ctermfg=245    gui=none    cterm=none 
 hi Cursor	    guibg=#f0e68c    ctermbg=255    guifg=#708090    ctermfg=242    gui=none    cterm=none 
-hi CursorLine	    guifg=#ffffff    ctermfg=231    guibg=#404040    ctermbg=237    gui=none    cterm=none 
+hi CursorLine	                 ctermfg=231    guibg=#404040    ctermbg=237    gui=none    cterm=none 
 hi ColorColumn	    guifg=#ffffff    ctermfg=231    guibg=#cc4040    ctermbg=252    gui=none    cterm=none 
 hi Directory	    guifg=#008b8b    ctermfg=33    gui=none    cterm=none 
 hi Folded	    guibg=#555555    ctermbg=239    guifg=#ffd700    ctermfg=220    gui=none    cterm=none 
