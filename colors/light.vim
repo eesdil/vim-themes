@@ -36,22 +36,22 @@ endif
 hi Title        guifg=#202020   gui=none
 hi Underlined   guifg=#202020   gui=underline
 
-hi Normal       guifg=black     guibg=#f2f2f2
-hi ModeMsg      guifg=black     guibg=#f2f2f2
+hi Normal       guifg=black     guibg=#ffffff
+hi ModeMsg      guifg=black     guibg=#ffffff
 
 " hi Cursor       guifg=#f0f0f0   guibg=#000000
-hi LineNr       guifg=#2b91af   guibg=#f2f2f2 gui=none
-hi SignColumn   guifg=#2b91af   guibg=#f2f2f2 gui=none
+hi LineNr       guifg=#2b91af   guibg=none gui=none
+hi SignColumn   guifg=#2b91af   guibg=none gui=none
 hi Visual       guifg=white     guibg=#5381bc
 hi WildMenu     guifg=black     guibg=#ffbc29
 hi IncSearch    guibg=black     guifg=#ffbc29
 hi Question     guifg=black     guibg=#ffbc29
 
-hi StatusLine   guifg=white     guibg=black   gui=bold
+hi StatusLine   guifg=white     guibg=#000000 gui=bold
 hi StatusLineNC guifg=white     guibg=#8090a0 gui=bold
 hi VertSplit    guifg=#a0b0c0   guibg=#a0b0c0 gui=none
 
-hi NonText      guifg=#bebebe   guibg=#f2f2f2
+hi NonText      guifg=#008000   guibg=none
 hi Comment      guifg=#008000   gui=none
 hi Folded       guifg=#202020   guibg=#e0e0e0
 hi Folded       guifg=#202020   guibg=#e0e0e0
